@@ -16,7 +16,7 @@ public class DoWhileLeaveEntitlement15 {
                 System.out.print("How many day(s)? ");
                 numLeave = input.nextInt();
 
-                if(numLeave >= leaveEntitlement){
+                if(numLeave > leaveEntitlement){
                     System.out.println("You only have leave entitlement " + leaveEntitlement + " days");
                    
 
