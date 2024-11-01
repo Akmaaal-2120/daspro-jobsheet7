@@ -7,7 +7,6 @@ public class TheTriangle15 {
         int numInput;
         String s = "";
    
-
         System.out.print("Input some number : ");
         numInput = input.nextInt();
 
