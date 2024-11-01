@@ -9,7 +9,6 @@ public class WhileMultiples15 {
         counter = 0;
         i = 1;
    
-
         System.out.print("Input the multiple : ");
         multiple = input.nextInt();
         
